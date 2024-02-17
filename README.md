@@ -19,12 +19,12 @@ KEYBOARD SHORTCUTS:
 (SHIFT) + [1)          : Surrounds the map with walls (1).
 (SHIFT) + (0)          : Clear map: fills the map with (0) and surrounds it with walls (1).
 (CMD)   + (C)          : Copy map to clipboard.
---
+
 (SHIFT) + (UP ARROW)   : Expands map by 1 row at the top.
 (SHIFT) + (DOWN ARROW) : Expands map by 1 row at the bottom.
 (SHIFT) + (LEFT ARROW) : Expands map by 1 column on the left.
 (SHIFT) + (RIGHT ARROW): Expands map by 1 column on the right.
---
+
 (CMD) + (UP ARROW)     : Contract map by 1 row at the bottom.
 (CMD) + (DOWN ARROW)   : Contract map by 1 row at the top.
 (CMD) + (LEFT ARROW)   : Contract map by 1 column on the right.
