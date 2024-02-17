@@ -1,4 +1,4 @@
-# SLMM - SO_LONG MAP MAPKER
+# SLMM - SO_LONG MAP MAKER
 
 ## Download and build - SLMM
 ```bash
