@@ -13,7 +13,7 @@ usage: slmm [-v | -h] map_file
 HOW-TO:
 Use left mouse btn to place a tile.
 Select charecters by typing on the keyboard. [A-Z][0-9]
-Use right mouse btn to delete a tile (puts a floor tile "0").
+Use right mouse btn to delete a tile (puts a floor tile "0
 
 KEYBOARD SHORTCUTS:
 (SHIFT) + [1)          : Surrounds the map with walls (1).
@@ -29,7 +29,7 @@ KEYBOARD SHORTCUTS:
 (CMD) + (DOWN ARROW)   : Contract map by 1 row at the top.
 (CMD) + (LEFT ARROW)   : Contract map by 1 column on the right.
 (CMD) + (RIGHT ARROW)  : Contract map by 1 column on the left.
---
+
 
 CUSTOM IMAGES
 If you want to use your own images, you can just add a 16x16 pixel .png
