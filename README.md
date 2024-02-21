@@ -24,7 +24,7 @@ Use right mouse btn to delete a tile (puts a floor tile [0])
 |--|--|
 | (SHIFT) + 1 | Surrounds the map with walls (1). |
 | (SHIFT) + 0 | Clear map: fills the map with (0) and surrounds it | with walls (1). |
-| (CMD)   + C | Copy map to clipboar |
+| (CMD)   + C | Copy map to clipboard |
 |--|--|
 | (SHIFT) + (UP ARROW) | Expands map by 1 row at the top. |
 | (SHIFT) + (DOWN ARROW) | Expands map by 1 row at the bottom. |
