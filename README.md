@@ -2,7 +2,7 @@
 
 Create your text based .ber maps for the 42 school so_long subject convinently in a GUI, using the MLX42 library.
 
-![Screenshot](docs/preview-01.png)
+![Screenshot](docs/preview-01.jpg)
 
 ## Download and build - SLMM
 ```bash
