@@ -10,6 +10,11 @@ static void	ft_print_and_terminate(char *s)
 static void	ft_print_help_msg(void)
 {
 	ft_printf("usage: slmm [-v | -h] map_file\n\n");
+	ft_printf("       HOW-TO:\n");
+	ft_printf("       Use left mouse btn to place a tile.\n");
+	ft_printf("       Select charecters by typing on the keyboard. [A-Z][0-9]\n");
+	ft_printf("       Use right mouse btn to delete a tile (puts a floor tile \"0\").\n");
+	ft_printf("       \n");
 	ft_printf("       KEYBOARD SHORTCUTS:\n");
 	ft_printf("       [SHIFT] + [1]          : Surrounds the map with walls (1).\n");
 	ft_printf("       [SHIFT] + [0]          : Clear map: fills the map with (0) and surrounds it with walls (1).\n");
