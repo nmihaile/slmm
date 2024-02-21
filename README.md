@@ -10,10 +10,10 @@ make
 ## Usage
 usage: slmm [-v | -h] map_file
 
-HOW-TO:
-Use left mouse btn to place a tile.
-Select charecters by typing on the keyboard. [A-Z][0-9]
-Use right mouse btn to delete a tile (puts a floor tile [0])
+HOW-TO: \
+Use left mouse btn to place a tile. \
+Select charecters by typing on the keyboard. [A-Z][0-9] \
+Use right mouse btn to delete a tile (puts a floor tile [0]) \
 
 KEYBOARD SHORTCUTS:
 (SHIFT) + [1)          : Surrounds the map with walls (1).
