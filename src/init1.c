@@ -97,7 +97,11 @@ int	init_file(int ac, char **av, t_ad *ad)
 		{
 			if (init_default_map(ad))
 				return (1);
-			return (0);
+			ad->file = ft_strdup(av[1]);
+			if (ad->file)
+				return (0);
+			else
+				return (1);
 		}
 		if ((err = load_map_from_file(av[1], ad)))
 		{

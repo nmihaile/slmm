@@ -28,6 +28,8 @@ int	load_and_set_map_dimensions(char *file, t_ad *ad)
 		h++;
 		free (line);
 	}
+	if (w < 3 || h < 3)
+		return (1);
 	ad->map.width = w;
 	ad->map.height = h;
 	free(line);
