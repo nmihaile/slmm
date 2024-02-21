@@ -8,9 +8,9 @@ make
 ```
 
 ## Usage
-usage: slmm [-v | -h] map_file
+`usage: slmm [-v | -h] map_file`
 
-### HOW-TO: \
+### HOW-TO:
 Use left mouse btn to place a tile. \
 Select charecters by typing on the keyboard. [A-Z][0-9] \
 Use right mouse btn to delete a tile (puts a floor tile [0])
@@ -32,7 +32,7 @@ Use right mouse btn to delete a tile (puts a floor tile [0])
 | (CMD) + (LEFT ARROW) | Contract map by 1 column on the right. |
 | (CMD) + (RIGHT ARROW) | Contract map by 1 column on the lef |
 
-### CUSTOM IMAGES \
+### CUSTOM IMAGES
 If you want to use your own images, you can just add a 16x16 pixel .png
 in the folder ./imgs/ with the name of the character.
 For example <./imgs/M.png> would display your image instead of
