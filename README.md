@@ -1,5 +1,9 @@
 # SLMM - SO_LONG MAP MAKER
 
+Create your text based .ber maps for the 42 school so_long subject convinently in a GUI, using the MLX42 library.
+
+![Screenshot](docs/preview-01.png)
+
 ## Download and build - SLMM
 ```bash
 git clone https://github.com/nmihaile/slmm.git slmm
